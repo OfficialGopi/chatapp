@@ -1,0 +1,6 @@
+.git
+node_modules
+src/client/node_modules
+src/client/.env
+src/client/build
+/dist
